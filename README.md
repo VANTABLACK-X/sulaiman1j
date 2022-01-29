@@ -10,6 +10,7 @@ Skills: ANSI C / HTML / CSS / VS CODE / KALI LINUX / MS WORD
 * HTML, CSS
 * Kali Linux
 
+### Gmail - muhamadusulaiman41912@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sulaiman1j)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sulaiman1j)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/black_box127.0.0.1/)  
 

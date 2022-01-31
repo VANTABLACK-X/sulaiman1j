@@ -4,7 +4,7 @@
 
 i'm from Thamizhnadu it's in India, my plan is become an ethical hacker, i just really like to learn and work in hacking,learning about programming languages,algorithms,data structure,operating systems,networking. Now im learning programming in ANSI c using vs code,kali linux. after this i'm gonna learn 1.data communication and networking, 2.data structures and algorithms.
 
- 🔭 I’m currently working on this page. 
+ 🔭 I’m currently working on my skills. 
  
 ## skils
 * ANSI C

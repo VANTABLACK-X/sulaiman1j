@@ -1,10 +1,11 @@
 ![](https://scontent.fmaa2-3.fna.fbcdn.net/v/t39.30808-6/p180x540/272740659_1253171301844495_7720574774827946758_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=L9Xq0ZYIBS0AX-biO_Y&_nc_ht=scontent.fmaa2-3.fna&oh=00_AT_e_vNRDjp5t-lveN-ZsXK1Vk670q9wJgjBfO2hdZGpSw&oe=61F972E5)
+
 # Sulaiman j
+
 i'm from Thamizhnadu it's in India, my plan is become an ethical hacker, i just really like to learn and work in hacking,learning about programming languages,algorithms,data structure,operating systems,networking. Now im learning programming in ANSI c using vs code,kali linux. after this i'm gonna learn 1.data communication and networking, 2.data structures and algorithms.
 
-Skills: ANSI C / HTML / CSS / VS CODE / KALI LINUX / MS WORD
-
-- 🔭 I’m currently working on this page. 
+ 🔭 I’m currently working on this page. 
+ 
 ## skils
 * ANSI C
 * HTML, CSS

@@ -9,8 +9,7 @@
 ## skils
 * ANSI C
 * JAVA - OOPS
-* SQL
-* HTML, CSS
+* NETWORKING
 * Kali Linux
 
 ### Gmail - muhamadusulaiman41912@gmail.com
